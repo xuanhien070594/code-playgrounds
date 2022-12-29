@@ -1,5 +1,5 @@
-# pydrake-playgrounds
-This repo contains a bunch of Ipython notebooks helping to familiarise with Drake
+# code-playgrounds
+This repo contains a bunch of Ipython notebooks helping to familiarise with some software packages
 
 # References
 
