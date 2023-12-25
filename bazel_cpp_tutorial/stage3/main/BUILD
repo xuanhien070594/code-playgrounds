@@ -14,3 +14,8 @@ cc_binary(
         "//lib:hello-time",
     ],
 )
+
+cc_binary(
+    name = "lambda_testing",
+    srcs = ["lambda_testing.cc"]
+)
